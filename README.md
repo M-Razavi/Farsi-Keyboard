@@ -1,5 +1,5 @@
 # Farsi-Keyboard
-**Virtual Farsi Keybaord for Firefox**
+**Virtual Farsi Keybaord for Firefox** You can install it from *[Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/farsi-keyboard/)*
 
 Virtual Farsi keyboard which lets you type in Farsi language in case you don't have a physical Farsi keyboard attached to your computer or even installed on the OS.
  
